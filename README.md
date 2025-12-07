@@ -41,7 +41,7 @@ roles for IWH if everyone voted to just distribute roles instead of explaining t
 
 [🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Receptionist' [BUTLER]: Give someone cool food or drinks, is it poisoned? Is it not poisoned? Who knows.
 
-[🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Entertainer' [JESTER]: You are able to block people's actions. But if you get voted out or die, you're able to kill someone.
+[🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Entertainer' [JESTER]: Self explanatory. If you get voted out, you're able to kill someone once.
 
 [🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Morgue Worker' [PYROMANIAC]: Each night, you may visit a player and douse them in gasoline. In order to successfully kill them, you need to ignite them the next night. (Action will fail if the doctor heals the player before igniting in time.)
 
