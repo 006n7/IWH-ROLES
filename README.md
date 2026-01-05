@@ -23,7 +23,7 @@
 
 [💉] ᴍᴀꜰɪᴀ/ꜱᴛᴀꜰꜰ:   'Nurse' [CONSIGLIERE]: Mute someone for a day, only allowing them to speak through: Emojis, kaomojis, morse code ETC or expressions/pony town actions. Or if you're feeling special, you can check for people’s exact roles. [Specify if you want to check for role or mute someone.]
 
-[💉] ᴍᴀꜰɪᴀ/ꜱᴛᴀꜰꜰ:   'Therapist' [FRAMER]: Frame one clue to turn a TRUE into FALSE for the next voting. [3 USES]
+[💉] ᴍᴀꜰɪᴀ/ꜱᴛᴀꜰꜰ:   'Therapist' [FRAMER]: Frame one clue to turn a TRUE into FALSE for the next voting. [3 USES] (You will also be able to know who your leader/MAFIA is!)
 
 [💉] ᴍᴀꜰɪᴀ/ꜱᴛᴀꜰꜰ:   'Pharmacist' [RAT]: Poison someone, death is guaranteed after two nights unless the DOCTOR heals them.
 
