@@ -1,7 +1,18 @@
+# *BASIC INFO*
 
+Ironveil Wraithmoor Hospital, or IWH for short, is a apocalypse hospital themed mafia, inspired off of *[Sheriff's Mafia]*, *[Bootleg TOS]* and others! 
 
-↷
-# ✧ '  PATIENTS / GOOD .
+In this MAFIA, you are a 'patient' along others, working together to try not to die by the corrupt staff after being trapped in the hospital but also try to get rid of the corrupt *(ps. the radiation outside is also lethal.)*
+
+# *INFO ABOUT [RELATIONSHIP POINTS]*
+
+Some days may be interuptted with NPCS at the front door or known as *[EVENTS]*. Basing off the *[RELATIONSHIP POINTS]*, you can either get: A easier finding to the *[MAFIA/STAFF]* team by clue giving (Make your points above 1.), or a harder finding! (Make your points go into the negatives.)
+
+Sadly, sometimes I will not be doing *[EVENTS]*, but you are able to talk with our cool nurse! Make sure to say the correct words when talking to our fellow NPCS!
+
+# *ROLE LIST*
+
+ ***✧ '  PATIENTS / GOOD .***
 
 [🍀] ɢᴏᴏᴅ/ᴘᴀᴛɪᴇɴᴛ:    'Fugitive' [VIGILANTE]: You have 2 bullets, try to figure out who the evil is and attempt to kill them. If you shoot an innocent on accident, your guilt will begin to seep in before dying. (Basically have 1 night to survive before dying if you get an innocent killed.)
 
@@ -14,8 +25,7 @@
 [🍀] ɢᴏᴏᴅ/ᴘᴀᴛɪᴇɴᴛ:    'Sufferer' [VETERAN]: If you choose to go on alert, you will kill ANYONE that did their action on you. (If no one did, nothing happened. If someone did, they die: even if they're a part of the good team or not.) 3 bullets, and 3 risks.
 
 
-↷
-# ✧ '  STAFF / MAFIA .
+***✧ '  STAFF / MAFIA .***
 
 [💉] ᴍᴀꜰɪᴀ/ꜱᴛᴀꜰꜰ:   'Surgeon' [MAFIA]: Kill anyone and attempt to get away with it. The patient's lives are in your hands.
 
@@ -30,8 +40,7 @@
 [💉] ᴍᴀꜰɪᴀ/ꜱᴛᴀꜰꜰ:   'Doctor?' [LATROPHOBE]: Kills anyone who tries to protect them, or target them. (This goes for the whole round.)
 
 
-↷
-# ✧ '  GUESTS / NEUTRAL .
+***✧ '  GUESTS / NEUTRAL .***
 
 [🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Pretender' [RETRIBUTIONIST]: Be able to use an ability from the dead's role the next night. (You are able to know their role once doing so.)
 
