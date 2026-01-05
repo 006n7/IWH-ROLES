@@ -49,6 +49,6 @@
 
 [🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   ‘Hangman’ [EXECUTIONER]: Upon getting this role, you will be assigned a target that you need dead, or voted off. You will not be able to do anything, but once they are dead/voted off, you can kill freely but each person you target will bleed for a day before dying.
 
-[🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Game-Master' [GAMBLER]: Getting this role, you get to live your life as a real gambler! Use the dice to roll ONCE in your actions. 1-20 = Nothing happens,  30-50 = Protected for the next night, 60-80 = Know someone's role, 90 = Poisoned, 95-100 = Free Revive on someone or yourself. 
+[🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   'Game-Master' [GAMBLER]: Getting this role, you get to live your life as a real gambler! Use the dice to roll ONCE in your actions. 1-29 = Nothing happens,  30-59 = Protected for the next night, 60-89 = Poisoned, 90-100 = Know someone’s role.
 
 [🌠] ɴᴇᴜᴛʀᴀʟ/ɢᴜᴇꜱᴛ:   [TSUNDERE]: Requested by my friend . . . You are able to pick 1 target to kick them, blocking their action. (I guess you can also choose one target to love over as well.)
