@@ -1,16 +1,21 @@
 # *BASIC INFO*
+────୨ৎ──── 
 
 Ironveil Wraithmoor Hospital, or IWH for short, is a apocalypse hospital themed mafia, inspired off of *[Sheriff's Mafia]*, *[Bootleg TOS]* and others! 
 
 In this MAFIA, you are a 'patient' along others, working together to try not to die by the corrupt staff after being trapped in the hospital but also try to get rid of the corrupt *(ps. the radiation outside is also lethal.)*
 
 # *INFO ABOUT [RELATIONSHIP POINTS]*
+────୨ৎ──── 
 
 Some days may be interuptted with NPCS at the front door or known as *[EVENTS]*. Basing off the *[RELATIONSHIP POINTS]*, you can either get: A easier finding to the *[MAFIA/STAFF]* team by clue giving (Make your points above 1.), or a harder finding! (Make your points go into the negatives.)
+
+![IMG_1390](https://github.com/user-attachments/assets/136aa506-6825-4369-bb47-de25c603e4fc)
 
 Sadly, sometimes I will not be doing *[EVENTS]*, but you are able to talk with our cool nurse! Make sure to say the correct words when talking to our fellow NPCS!
 
 # *ROLE LIST*
+────୨ৎ──── 
 
  ***✧ '  PATIENTS / GOOD .***
 
